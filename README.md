@@ -6,7 +6,7 @@ I am a versatility and easily adapt to different technology depending on what th
 <br/>
 <br/>
 
-<img  align="right" alt="GIF" src="./assets/techie.gif" width="260px"/>
+<img  align="right" alt="GIF" src="./assets/techie.gif" width="320px"/>
 
 ### 🧐 More About Me:
 
