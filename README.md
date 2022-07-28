@@ -12,7 +12,6 @@ I am a versatility and easily adapt to different technology depending on what th
 
 - 🔭 &nbsp; I’m currently working on a **chrome extension** to save password in google drive in encrypted format.
 - 🤝 &nbsp; I’m collaborating to [ng-password-validator](https://github.com/jaganbishoyi/ngx-password-validator)
-- 🌱 &nbsp; I’m currently learning .net;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jaganmohanbishoyi?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jaganmohanbishoyi/)
